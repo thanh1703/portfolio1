@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+#hero
+{background-color: #151F35}
+#hero img{border-radius: 15px;width: 100%}
+.btn-fill-waring{background-color: #ffc107;border-radius: 10px;padding: 10px 20px;transition: 0.5s;border: none;}
+.btn-fill-waring:hover
+{background-color: #fff;
+	color: #ffc107;
+	border-radius: 10px}
+#about{background-color:#0D1321 }
+#about img{border-radius: 15px;width: 100%}
+#service{background-color: #151F35}
+
+.icon-big{font-size: 40px !important}
+.radius{border-radius: 20px ;height: 350px}
+#skill{background-color:#0D1321}
+#team{background-color: #151F35}
+#team img{border-radius: 15px;}
+#project img{border-radius: 15px;}
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+#project{background-color:#0D1321}
+#contact{background-color: #151F35}
+#footer{background-color: #151F35}
+.form-group{padding-bottom: 1rem}
+textarea.form-control {
+    height: auto;
+}
